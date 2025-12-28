@@ -29,7 +29,7 @@
 📫 How to reach me: [rathodsshubham33@gmail.com]
 
 ## 🌐 Portfolio
-Check out my work here: [**My Portfolio**](https://shubhamrathod007.github.io/Shubham-Portfolio/)
+Check out my work here: [**My Portfolio**][(https://shubhamrathod007.github.io/Shubham-portfolio/)
 
 
 
